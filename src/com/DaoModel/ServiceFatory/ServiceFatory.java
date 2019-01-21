@@ -1,4 +1,4 @@
-package com.ServiceFatory;
+package com.DaoModel.ServiceFatory;
 
 public class ServiceFatory {
 

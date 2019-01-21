@@ -1,4 +1,4 @@
-package com.DaoFatory;
+package com.DaoModel.DaoFatory;
 
 public class DaoFactory {
 

@@ -1,6 +1,6 @@
-package com.DAOImpl;
+package com.DaoModel.DAOImpl;
 
-import com.DAO.IUserDao;
+import com.DaoModel.DAO.IUserDao;
 import com.VO.UserVO;
 
 import java.sql.Connection;

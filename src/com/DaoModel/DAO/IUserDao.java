@@ -1,4 +1,4 @@
-package com.DAO;
+package com.DaoModel.DAO;
 
 import com.VO.UserVO;
 

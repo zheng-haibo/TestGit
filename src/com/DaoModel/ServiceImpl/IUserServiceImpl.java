@@ -1,9 +1,9 @@
-package com.ServiceImpl;
+package com.DaoModel.ServiceImpl;
 
-import com.DAO.IUserDao;
-import com.DaoFatory.DaoFactory;
+import com.DaoModel.DAO.IUserDao;
+import com.DaoModel.DaoFatory.DaoFactory;
 import com.DatebaseConnection.DatebaseConnection;
-import com.Service.IUserService;
+import com.DaoModel.Service.IUserService;
 import com.VO.UserVO;
 
 import java.util.List;
